@@ -72,24 +72,6 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: Optimize Your Daily Schedule for Maximum Productivity
-        content: >
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
-
-
-          ![](/\_static/app-assets/images/Screenshot%202021-06-28%20105408.png)
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/feature-3.png
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: sixty
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
